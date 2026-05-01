@@ -21,7 +21,7 @@
 
 ## 📸 Interface
 
-> **Dica:** Adicione aqui um print da aba Dashboard e da aba USB Installer para chamar a atenção!
+> 
 
 ---
 
